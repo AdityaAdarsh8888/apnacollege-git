@@ -1,3 +1,3 @@
 # apnacollege-git
-This repo is for learning git and github
+This repo is for learning git and github.
 Author:- Aditya Adarsh
